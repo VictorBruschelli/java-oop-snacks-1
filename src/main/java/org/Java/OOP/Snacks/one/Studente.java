@@ -28,8 +28,6 @@ public class Studente {
 	public static void main(String[] args) {
 		Studente studentessa = new Studente("Ester", "ferrara", 23);
 		System.out.print(studentessa.getInfoStudente());
-		
-		
 	}
 		
 	/*	Studente studente = new Studente();
